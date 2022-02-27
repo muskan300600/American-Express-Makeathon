@@ -1,0 +1,2 @@
+# American-Express-Makeathon
+We would be using ensemble method to predict volatility of stocks. Ensemble method in regression is used to average the prediction of both machine learning/deep learning models used for better accuracy. The models used are RNN-LSTM and LGBM. Using LSTM, time series forecasting models can predict future values based on previous, sequential data. This provides greater accuracy for demand forecasters which results in better decision making. 

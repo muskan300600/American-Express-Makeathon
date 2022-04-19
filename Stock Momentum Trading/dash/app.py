@@ -216,11 +216,7 @@ app.layout = dbc.Container(fluid=True, children=[
                                      html.Br(), html.Br(),
                                      """Thanks for viewing, you may find out more about the project through my 
                                      article on """,
-                                     html.A("Medium.",
-                                            href='https://jayljl.medium.com/mining-stocktwits-retail-sentiments-'
-                                                 'for-momentum-trading-4594a91833b4',
-                                            target="_blank",
-                                            style={'color': 'blue'})
+                                     
 
                                      ], className="card-text")
                 ])
